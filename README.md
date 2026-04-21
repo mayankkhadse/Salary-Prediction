@@ -79,8 +79,10 @@ Salary-Prediction/
 ```
 git clone https://github.com/mayankkhadse/Salary-Prediction.git
 cd Salary-Prediction
-pip install -r requirements.txt
-streamlit run streamlit_app.py
+pip install 
+requirements.txt
+streamlit run
+streamlit_app.py
 ```
 ---
 
