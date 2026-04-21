@@ -64,3 +64,46 @@ This project predicts **Data Science salaries** based on multiple features like:
 ---
 
 ## 📂 Project Structure
+Salary-Prediction/
+│
+├── streamlit_app.py
+├── best_model.pkl.gz
+├── Salary_Dataset_DataScienceLovers.csv
+├── requirements.txt
+└── README.md
+
+---
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/mayankkhadse/Salary-Prediction.git
+cd Salary-Prediction
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mayankkhadse&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkhadse&theme=radical" /> </p>
+
+🏆 Achievements
+✅ Built complete ML pipeline
+✅ Deployed using Streamlit
+✅ Solved real-world salary prediction problem
+
+🔮 Future Improvements
+📊 Add data visualization (charts)
+🤖 Improve model accuracy
+🧠 Use advanced models (XGBoost, LightGBM)
+📱 Mobile-friendly UI
+
+👨‍💻 Author
+
+Mayank Khadse
+
+<p align="center"> <a href="https://github.com/mayankkhadse"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/> </a> </p>
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+<p align="center"> <img src="https://img.shields.io/github/stars/mayankkhadse/Salary-Prediction?style=social"/> </p> ```
