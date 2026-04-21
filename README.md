@@ -64,7 +64,7 @@ This project predicts **Data Science salaries** based on multiple features like:
 ---
 
 ## 📂 Project Structure
-
+```
 Salary-Prediction/
 │
 ├── streamlit_app.py
@@ -72,7 +72,7 @@ Salary-Prediction/
 ├── Salary_Dataset_DataScienceLovers.csv
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## ▶️ Run Locally
