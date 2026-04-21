@@ -83,13 +83,19 @@ cd Salary-Prediction
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 
+---
+
 ## 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mayankkhadse&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkhadse&theme=radical" /> </p>
+
+---
 
 ## 🏆 Achievements
 ✅ Built complete ML pipeline
 ✅ Deployed using Streamlit
 ✅ Solved real-world salary prediction problem
+
+---
 
 ## 🔮 Future Improvements
 📊 Add data visualization (charts)
@@ -97,11 +103,15 @@ streamlit run streamlit_app.py
 🧠 Use advanced models (XGBoost, LightGBM)
 📱 Mobile-friendly UI
 
+---
+
 ## 👨‍💻 Author
 
 Mayank Khadse
 
 <p align="center"> <a href="https://github.com/mayankkhadse"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/> </a> </p>
+
+---
 
 ## ⭐ Support
 
