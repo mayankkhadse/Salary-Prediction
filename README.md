@@ -85,36 +85,39 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mayankkhadse&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkhadse&theme=radical" /> </p>
+## 📈 GitHub Stats & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankkhadse&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkhadse&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkhadse&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-## 🏆 Achievements
-✅ Built complete ML pipeline
-✅ Deployed using Streamlit
-✅ Solved real-world salary prediction problem
+## ⭐ Project Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/mayankkhadse/Salary-Prediction?style=social" />
+  <img src="https://img.shields.io/github/forks/mayankkhadse/Salary-Prediction?style=social" />
+  <img src="https://img.shields.io/github/watchers/mayankkhadse/Salary-Prediction?style=social" />
+</p>
 
 ---
 
-## 🔮 Future Improvements
-📊 Add data visualization (charts)
-🤖 Improve model accuracy
-🧠 Use advanced models (XGBoost, LightGBM)
-📱 Mobile-friendly UI
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayankkhadse&color=brightgreen" />
+</p>
 
 ---
 
-## 👨‍💻 Author
+## 🙌 Support
 
-Mayank Khadse
-
-<p align="center"> <a href="https://github.com/mayankkhadse"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/> </a> </p>
+If you like this project, please consider giving it a ⭐ on GitHub!
 
 ---
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
-
-<p align="center"> <img src="https://img.shields.io/github/stars/mayankkhadse/Salary-Prediction?style=social"/> </p> ```
