@@ -13,7 +13,7 @@ st.write("Enter the details below to predict the salary for a Data Science job."
 # --- Load the Model ---
 # Ensure 'best_model.pkl.gz' is in the same directory as your app on Streamlit Cloud
 try:
-    with gzip.open('best_model.pkl.gz', 'rb') as f:
+    with gzip.open('best_model_small.pkl.gz', 'rb') as f:
         model = pickle.load(f)
     st.success("Regression model loaded successfully!")
 except Exception as e:
