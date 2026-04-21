@@ -26,7 +26,7 @@
 ## 📸 App Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankkhadse/Salary-Prediction/main/screenshot.png" width="900"/>
+  <img src="https://github.com/mayankkhadse/Salary-Prediction/blob/main/screenshot.png" width="900"/>
 </p>
 
 ---
