@@ -77,7 +77,6 @@ Salary-Prediction/
 
 ## ▶️ Run Locally
 
-```bash
 git clone https://github.com/mayankkhadse/Salary-Prediction.git
 cd Salary-Prediction
 pip install -r requirements.txt
