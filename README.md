@@ -76,12 +76,12 @@ Salary-Prediction/
 ---
 
 ## ▶️ Run Locally
-
+```
 git clone https://github.com/mayankkhadse/Salary-Prediction.git
 cd Salary-Prediction
 pip install -r requirements.txt
 streamlit run streamlit_app.py
-
+```
 ---
 
 ## 📈 GitHub Stats & Analytics
